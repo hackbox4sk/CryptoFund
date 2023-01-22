@@ -21,13 +21,12 @@ Sumit Prajapat \[19100BTCSICS05463\]
 
 PROF. MANOJ DHAWAN
 
-![](CryptoFund/images/media/image1.jpeg?raw=true )
+![image1](https://user-images.githubusercontent.com/90349691/213921228-7ed22dee-8199-4bb1-b5d5-d2a07720789d.jpeg)
 
 **DEPARTMENT OF INFORMATION TECHNOLOGY**
 
 **SHRI VAISHNAV INSTITUTE OF INFORMATION TECHNOLOGY SHRI VAISHNAV
 VIDYAPEETH VISHWAVIDYALAYA, INDORE**
-![image1](https://user-images.githubusercontent.com/90349691/213921228-7ed22dee-8199-4bb1-b5d5-d2a07720789d.jpeg)
 
 **JAN - JUNE 2022**
 
@@ -264,18 +263,10 @@ The stakeholders can be divided into two parts:
 
 
 **Concept Architecture of proposed solution**
+![image4](https://user-images.githubusercontent.com/90349691/213921513-a106fd4e-70b2-4279-b9c2-3cc002b1b53a.png)
+![image5](https://user-images.githubusercontent.com/90349691/213921604-1326b14c-5842-4b49-8161-84b26dca9915.png)
+![image6](https://user-images.githubusercontent.com/90349691/213921616-d9cb484e-c01d-4af5-9bcb-29b6f4570769.png)
 
-![Diagram Description automatically
-generated](./images/media/image4.png){width="6.425in"
-height="3.6333333333333333in"}
-
-![Diagram Description automatically
-generated](./images/media/image5.png){width="6.652777777777778in"
-height="2.1666666666666665in"}
-
-![Diagram Description automatically
-generated](./images/media/image6.png){width="6.652777777777778in"
-height="2.783333333333333in"}
 
 **System Architecture of proposed solution**
 
