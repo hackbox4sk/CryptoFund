@@ -175,7 +175,7 @@ raised \~1 billion dollars for Covid Relief in India from the entire
 global community, in a highly transparent manner.
 
 ![Text Description automatically
-generated](./images/media/image2.png){width="5.816666666666666in"
+generated](CryptoFund/images/media/image2.png){width="5.816666666666666in"
 height="3.075in"}
 
 **A simple google search on Kickstarter scams**
