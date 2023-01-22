@@ -21,8 +21,7 @@ Sumit Prajapat \[19100BTCSICS05463\]
 
 PROF. MANOJ DHAWAN
 
-![](/CryptoFund/images/media/image1.jpeg?raw=true ){width="1.5820625546806648in"
-height="1.5208333333333333in"}
+![](CryptoFund/images/media/image1.jpeg?raw=true )
 
 **DEPARTMENT OF INFORMATION TECHNOLOGY**
 
