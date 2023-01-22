@@ -1,7 +1,7 @@
 
-*CryptoFund: A crowdfunding website Powered by Blockchain**
+#CryptoFund: A crowdfunding website Powered by Blockchain
 
-# In partial fulfillment of requirements for the degree of
+*In partial fulfillment of requirements for the degree of
 
 **BACHELOR OF TECHNOLOGY IN**
 
