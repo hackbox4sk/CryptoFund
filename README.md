@@ -1,6 +1,5 @@
-# On
 
-**CryptoFund: A crowdfunding website Powered by Blockchain**
+*CryptoFund: A crowdfunding website Powered by Blockchain**
 
 # In partial fulfillment of requirements for the degree of
 
@@ -22,7 +21,7 @@ Sumit Prajapat \[19100BTCSICS05463\]
 
 PROF. MANOJ DHAWAN
 
-![](./images/media/image1.jpeg){width="1.5820625546806648in"
+![](/CryptoFund/images/media/image1.jpeg){width="1.5820625546806648in"
 height="1.5208333333333333in"}
 
 **DEPARTMENT OF INFORMATION TECHNOLOGY**
