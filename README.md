@@ -21,7 +21,7 @@ Sumit Prajapat \[19100BTCSICS05463\]
 
 PROF. MANOJ DHAWAN
 
-![](/CryptoFund/images/media/image1.jpeg){width="1.5820625546806648in"
+![](/CryptoFund/images/media/image1.jpeg?raw=true ){width="1.5820625546806648in"
 height="1.5208333333333333in"}
 
 **DEPARTMENT OF INFORMATION TECHNOLOGY**
@@ -175,7 +175,7 @@ raised \~1 billion dollars for Covid Relief in India from the entire
 global community, in a highly transparent manner.
 
 ![Text Description automatically
-generated](CryptoFund/images/media/image2.png){width="5.816666666666666in"
+generated](CryptoFund/images/media/image2.png?raw=true ){width="5.816666666666666in"
 height="3.075in"}
 
 **A simple google search on Kickstarter scams**
