@@ -3,9 +3,7 @@
 
 *In partial fulfillment of requirements for the degree of*
 
-**BACHELOR OF TECHNOLOGY IN**
-
-**COMPUTER SCIENCE & ENGINEERING**
+**BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE & ENGINEERING**
 
 ***with Specialization in Information and Cyber Security***
 
