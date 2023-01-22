@@ -173,10 +173,8 @@ We were highly inspired by the CryptoRelief initiative
 ([[www.cryptorelief.in]{.underline}](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.cryptorelief.in%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1642765098250675%26amp;usg%3DAOvVaw0ii9Me8JATVsqOiWAgS8lK&sa=D&source=docs&ust=1642765098296656&usg=AOvVaw1j3oVfhtG9cGZYiwSzBclH) ) which
 raised \~1 billion dollars for Covid Relief in India from the entire
 global community, in a highly transparent manner.
+![image2](https://user-images.githubusercontent.com/90349691/213921348-4abecefe-971a-488d-b069-ba0fd4b1133a.png)
 
-![Text Description automatically
-generated](CryptoFund/images/media/image2.png?raw=true ){width="5.816666666666666in"
-height="3.075in"}
 
 **A simple google search on Kickstarter scams**
 
@@ -261,8 +259,9 @@ The stakeholders can be divided into two parts:
 > With CryptoFund we aim to make the crowdfunding process transparent,
 > anti-fraudulent and secure.
 
-![](./images/media/image3.png){width="6.525in"
-height="5.591666666666667in"}
+
+![image3](https://user-images.githubusercontent.com/90349691/213921409-ab802e69-652c-4e75-93c4-a165364a44ac.png)
+
 
 **Concept Architecture of proposed solution**
 
